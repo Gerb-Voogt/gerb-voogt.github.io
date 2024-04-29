@@ -24,6 +24,42 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+$$
+\dot x = f(x, u)
+$$
+
+and an $x = 2$ inline test
+
+
+{% highlight julia %}
+function main()::Int64
+  # This is a Julia test
+  a = 2
+  b = 4
+  return 2+4
+end
+{% endhighlight %}
+
+{% highlight matlab %}
+a = 2;
+b = 4;
+c = a + b
+{% endhighlight %}
+
+{% highlight python %}
+def main():
+    """
+    This is indeed a very nice docstring
+    """
+    print("Hello World!")
+{% endhighlight %}
+
+<!-- Centered Image -->
+{:refdef: style="text-align: center;"}
+  ![Plotting the Spectral Radii vs sampling time $h$ and delay $\tau$](/assets/spectral_radii_test_plot.png)
+{: refdef}
+
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
