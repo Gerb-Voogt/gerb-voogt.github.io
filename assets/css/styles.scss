@@ -1,0 +1,60 @@
+---
+---
+@import "main";
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    box-sizing: border-box;
+    padding: 15px;
+    word-wrap: wrap;
+}
+
+.left-col {
+  float: left;
+  width: 30%;
+}
+
+.right-col {
+  float: left;
+  width: 70%;
+}
+
+@media screen and (max-width: 600px) {
+    .col {
+      width: 100%; /* Full width on small screens */
+    }
+}
+
+.circ-image {
+    width: 70%;
+    border-radius: 50%;
+    overflow: hidden; /* Hides any content outside of the circular boundary */
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.profile-link:link {
+    text-decoration: none;
+    color: green;
+}
+.profile-link:visited {
+    text-decoration: none;
+    color: green;
+}
+.profile-link:hover {
+    text-decoration: none;
+    color: green;
+}
+.profile-link:active {
+    text-decoration: none;
+    color: green;
+}
