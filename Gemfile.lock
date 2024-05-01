@@ -288,7 +288,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  dev-portfolio-blog
   github-pages (~> 231)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)

@@ -37,7 +37,7 @@ collections:
     output: true
 
 # Build settings
-theme: dev-portfolio-blog
+# theme: dev-portfolio-blog
 plugins:
   - jekyll-feed
 
