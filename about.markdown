@@ -43,34 +43,6 @@ title: About
 - **BSc. Mechanical Engineering @Delft University of Technology (2019-2023)**
 
 ---
-## Work Experience
-
-- **Project Employee Digital Energy @[The Green Village](https://www.thegreenvillage.org/) [Feb 2024 - current]**
-  - The digital energy project is a project at the Green Village concerned with aquisition and storage of large amounts of data collected from experiments. 
-  - Interfaced with various different sensors and sensoring equipment via interfaces such as REST APIs and Modbus
-  - Developed software in Python to retrieve this data and push it to [InfluxDB](https://www.influxdata.com/) using the [Kafka](https://kafka.apache.org/) message broker and [Grafana](https://grafana.com/) for visualisation.
-
-<br>
-
-
-- **Teachning Assistant @[Delft University of Technology](https://www.tudelft.nl/en/) [Apr 2022 - current]**
-  - List of Courses:
-    - Engineering Mechanics (Statics, Mechanics of Materials) ('24)
-    - Biomechanics ('23)
-    - Robotics Project ('23, '24)
-    - Thermodynamics ('22, '23)
-    - Python Programming ('22)
-
-<br>
-
-
-- **Student Mentor @[Delft University of Technology](https://www.tudelft.nl/en/) [Apr 2022 - Feb 2023]**
-
-<br>
-
-
-
----
 ## Projects
 
 ---
