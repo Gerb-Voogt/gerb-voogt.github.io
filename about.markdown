@@ -54,7 +54,6 @@ title: About
 
 
 - **Teachning Assistant @[Delft University of Technology](https://www.tudelft.nl/en/) [Apr 2022 - current]**
-  - Teaching Assistant for various theoretical as well as practical courses in which I learned to effectively communicate technological and mathematical concepts to students.
   - List of Courses:
     - Engineering Mechanics (Statics, Mechanics of Materials) ('24)
     - Biomechanics ('23)
@@ -66,15 +65,9 @@ title: About
 
 
 - **Student Mentor @[Delft University of Technology](https://www.tudelft.nl/en/) [Apr 2022 - Feb 2023]**
-  - Mentored 1st year mechanical engineering students. Helpen familiarized students with the university and student life and provided support for various first year courses including introductory programming, calculus and engineering mechanics.
 
 <br>
 
-
-- **Helping Hands @[Machinefabriek Krimpen](https://machinefabriekkrimpen.nl/en/)** [Aug 2021 - Nov 2021]
-  - During my BSc. degree I worked at the machine parts factory to gain practical experience in the field of engineering.
-
-<br>
 
 
 ---
