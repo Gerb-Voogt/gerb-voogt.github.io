@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # resume_url: [PATH_TO_RESUME]
-author_name: Gerben Voogt
+author_name: Gerben
 description: A portfolio-blog by some nerd that talks about math.
 url: [WEBSITE_URL]
 disqus:

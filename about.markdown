@@ -30,19 +30,9 @@ title: About
 </div>
 
 ---
-## Skills
-
-**Languages**: C++, Python, Matlab
-
-**Mathematics**: Numerical Methods, Optimisation, Linear Algebra, Differential Equations
-
----
 ## Education
 
-- **MSc. Systems and Control @Delft University of Technology (2023-current)**
-- **BSc. Mechanical Engineering @Delft University of Technology (2019-2023)**
-
----
-## Projects
+- **MSc. Systems and Control**
+- **BSc. Mechanical Engineering**
 
 ---
